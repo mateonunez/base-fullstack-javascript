@@ -39,7 +39,7 @@ const Home: NextPage<Props> = ({ users }) => {
 
   return (
     <div>
-      <span className="text-2xl">Base Fullstack JavaScript</span>
+      <span className="text-2xl">Base Fullstack JavaScript by @mateonunez</span>
 
       <div>
         {users.length ? (
